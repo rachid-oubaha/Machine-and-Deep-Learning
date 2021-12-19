@@ -1,5 +1,17 @@
 
+## Face Mask Detection
 
+
+### Prerequisites:
+- Python
+- sklearn
+- OpenCV
+- keras
+- CNN
+- numpy
+- Matplotlib
+
+You will find more detail information in notebook,it is clearly explained.
 
 
 ## Ref
