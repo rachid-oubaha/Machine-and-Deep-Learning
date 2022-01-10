@@ -4,10 +4,14 @@ I used Machine and Deep Learning techniques to predict who is going to win the A
 
 
 Group matches predictions
+
+
 ![Screenshot](can22.png)
 
 
 round of 16 predictions
+
+
 ![Screenshot](can22_.png)
 
 
