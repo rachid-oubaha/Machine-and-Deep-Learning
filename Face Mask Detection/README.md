@@ -1,6 +1,13 @@
 
 ## Face Mask Detection
 
+### How It Works:
+in order to create a face mask detector, we need to break our project into two distinct phases:
+phase 1: Here we focus on faces in image and ignore the rest of pixels.
+phase 2: Here we train the CNN model and then classify each face as mask or no_mask.
+
+![Screenshot](img.JPG)
+
 
 ### Prerequisites:
 - Python
