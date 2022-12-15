@@ -21,7 +21,7 @@ In this project, We built a model to accurately classify a piece of news as REAL
 - visualize the text data using Wordcloud
 - Apply some preprocessing text functions: removing not useful chacarters and removing the unnecessary  words ...
 - Apply tokenization to convert texts to sequences of numbers.
-- capture the context of words by using Word embedding technique
+- Capture the context of words by using Word embedding technique
 - Split the dataset into training and testing sets.
 - Train and evaluate the model
 
