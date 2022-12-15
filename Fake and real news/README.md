@@ -14,6 +14,17 @@ In this project, We built a model to accurately classify a piece of news as REAL
 - Sklearn 
 - keras
 
+### Steps for detecting fake news with Python:
+- Import the necessary libraries (Nltk, Gensim , ...).
+- Read the data into a DataFrame, and get the info of the data and the first 5 records.
+- Do some exploratory data analysis to get a better sense of the data we have.
+- visualize the text data using Wordcloud
+- Apply some preprocessing text functions: removing not useful chacarters and removing the unnecessary  words ...
+- Apply tokenization to convert texts to sequences of numbers.
+- capture the context of words by using Word embedding technique
+- Split the dataset into training and testing sets.
+- Train and evaluate the model
+
 You will find more detail information in notebook,it is clearly explained.
 
 
