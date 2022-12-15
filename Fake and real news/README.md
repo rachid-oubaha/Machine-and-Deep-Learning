@@ -1,6 +1,6 @@
 ## Fake and real news
 ### Project description:
-In this project, Simple spam email classifier was implemented by Naive Bayes Classifier, the goal here is to identify whether an email is a spam or ham.
+In this project, We built a model to accurately classify a piece of news as REAL or FAKE.Using RNN network.
 
 ### Prerequisites:
 - Python
