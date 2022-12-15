@@ -4,10 +4,15 @@ In this project, Simple spam email classifier was implemented by Naive Bayes Cla
 
 ### Prerequisites:
 - Python
-- pandas 
-- CountVectorizer
-- Naive Bayes Classifier (sklearn)
-- seaborn 
+- Nltk
+- Re
+- Gensim
+- Wordcloud  
+- Pandas 
+- Matplotlib
+- Seaborn
+- Sklearn 
+- keras
 
 You will find more detail information in notebook,it is clearly explained.
 
