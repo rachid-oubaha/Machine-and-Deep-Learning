@@ -13,4 +13,4 @@ You will find more detail information in notebook,it is clearly explained.
 
 
 ### References:
-[- How to Use Word Embedding Layers for Deep Learning with Keras]: https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/
+[https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/]:How to Use Word Embedding Layers for Deep Learning with Keras
