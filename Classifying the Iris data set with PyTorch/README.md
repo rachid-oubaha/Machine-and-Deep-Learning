@@ -33,7 +33,7 @@ pip install torch torchvision --extra-index-url https://download.pytorch.org/whl
 
 ### PyTorch and TensorFlow
 
-#### TensorFlow
+> #### TensorFlow
 
 Simple built-in high-level API.
 Visualizing training with Tensorboard.
@@ -42,7 +42,7 @@ Easy mobile support.
 Open source.
 Good documentation and community support.
 
-#### PyTorch
+> #### PyTorch
 
 Python-like coding.
 Visualizing training with Visdom.
