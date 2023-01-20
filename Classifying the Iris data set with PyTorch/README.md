@@ -64,4 +64,4 @@ pip install torch torchvision --extra-index-url https://download.pytorch.org/whl
 
 
 ### Example
-In this example, we will have a look on how to create a simple neural network using PyTorch for a multiclass classification problem with Iris data set.
+We will have a look on how to create a simple neural network using PyTorch for a multiclass classification problem with Iris data set.
