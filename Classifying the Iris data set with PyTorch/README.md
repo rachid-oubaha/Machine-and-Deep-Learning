@@ -17,11 +17,11 @@ Pytorch includes 2 packages:
 
 ### Advantages of pytorch
 
-it provides maximum flexibility.
-It is easy to learn and simpler to code.
-it is easy to debug.
-It includes a lot of loss functions.
-It allows building networks whose structure is dependent on computation itself.
+* it provides maximum flexibility.
+* It is easy to learn and simpler to code.
+* it is easy to debug.
+* It includes a lot of loss functions.
+* It allows building networks whose structure is dependent on computation itself.
 
 ### PyTorch installation
 
@@ -35,28 +35,28 @@ pip install torch torchvision --extra-index-url https://download.pytorch.org/whl
 
 > #### TensorFlow
 
-Simple built-in high-level API.
-Visualizing training with Tensorboard.
-Production-ready thanks to TensorFlow serving.
-Easy mobile support.
-Open source.
-Good documentation and community support.
+* Simple built-in high-level API.
+* Visualizing training with Tensorboard.
+* Production-ready thanks to TensorFlow serving.
+* Easy mobile support.
+* Open source.
+* Good documentation and community support.
 
 > #### PyTorch
 
-Python-like coding.
-Visualizing training with Visdom.
-Dynamic graph.
-Easy & quick editing.
-Good documentation and community support.
-Open source.
+* Python-like coding.
+* Visualizing training with Visdom.
+* Dynamic graph.
+* Easy & quick editing.
+* Good documentation and community support.
+* Open source.
 
 
 ### Application of PyTorch
 
-Computer Vision.
-Natural Language Processing.
-Reinforcement Learning.
+* Computer Vision.
+* Natural Language Processing.
+* Reinforcement Learning.
 
 
 ### Gradient descent
