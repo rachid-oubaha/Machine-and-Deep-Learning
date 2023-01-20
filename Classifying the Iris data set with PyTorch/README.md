@@ -3,16 +3,16 @@
 
 PyTorch is an open source machine learning (ML) framework based on the Python programming language.
 
-pytorch includes 2 packages:
-The torch package that has the core of deep learning functions.
-The torchvision package consists of popular datasets, model architectures, and common image transformations for computer vision
+Pytorch includes 2 packages:
+* The torch package that has the core of deep learning functions.
+* The torchvision package consists of popular datasets, model architectures, and common image transformations for computer vision
 
 
 
 ### Features
 
-An n-dimensional Tensor, similar to numpy but can run on GPUs.
-PyTorch uses dynamic computation graphs.
+* An n-dimensional Tensor, similar to numpy but can run on GPUs.
+* PyTorch uses dynamic computation graphs.
 
 
 ### Advantages of pytorch
