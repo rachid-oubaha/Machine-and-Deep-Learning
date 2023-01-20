@@ -26,8 +26,10 @@ It allows building networks whose structure is dependent on computation itself.
 ### PyTorch installation
 
 To install PyTorch we use :
+```
 pip install torch torchvision
 pip install torch torchvision --extra-index-url https://download.pytorch.org/whl/cu117
+```
 
 ### PyTorch and TensorFlow
 
@@ -58,7 +60,7 @@ Reinforcement Learning.
 
 
 ### Gradient descent
-backward() : The backward() method in Pytorch is used to calculate the gradient during the backward pass in the neural network.
+**backward()** : The **backward()** method in Pytorch is used to calculate **the gradient** during the backward pass in the neural network.
 
 
 ### Example
