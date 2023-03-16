@@ -1,4 +1,4 @@
-## Chatbot for Prayer Times, Wikipedia, Date & Time, Football Scores and General Questions
+## Chatbot WhatsApp for Prayer Times, Wikipedia, Date & Time, Football Scores and General Questions
 ### Project description:
 
 This is a chatbot project that can provide users with useful information about prayer times, Wikipedia searches, date and time, football scores, and general questions. The chatbot is built using advanced natural language processing (NLP) techniques to understand and respond to user queries in a conversational manner.
@@ -23,12 +23,12 @@ The chatbot is built using the following technologies:
 - Python
 - Nltk
 - Re
-- Gensim
 - pickle  
 - Tensorflow 
 - keras
-- Wikipediaapi
+- Wikipedia API
 - requests
+- WhatsApp API
 
 This project description  is created by ChatGPT.
 
