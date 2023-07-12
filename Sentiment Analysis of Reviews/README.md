@@ -23,6 +23,9 @@ To visually represent the most frequent terms in the reviews, a word cloud is ge
 - scipy for softmax function
 - Matcher from spacy.matcher for pattern matching in text
 
+
+To install the 'transformers' library specifically, you can use the following command: pip install transformers
+
 ## Instructions for Running the Project
 1. Clone the project repository .
 2. Open the project notebook in Google Colab.
